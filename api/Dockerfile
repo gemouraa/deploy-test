@@ -1,5 +1,3 @@
-Arquivo Dockerfile:
-
 
 # Etapa 1: Build
 FROM ubuntu:latest AS build
